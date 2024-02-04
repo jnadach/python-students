@@ -1,2 +1,6 @@
-print("Mam na imię...")  # tutaj wpisz swoje imię
+print("Jan Nadachowski")  # tutaj wpisz swoje imię
 # i dodaj jeszcze jakiś ciekawy kod
+
+print("  /\\_/\\")
+print(" ( o.o )")
+print(" > ^ <")
